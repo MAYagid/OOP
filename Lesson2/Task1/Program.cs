@@ -41,6 +41,12 @@ namespace Task1
             accounttype = Type;
         }
 
+        public void Perevod(BankAccount other, int sum)
+        {
+            this.balance += sum;
+            other.balance -= sum;
+        }
+
         public void PrintInfo()
         {
             Console.WriteLine($"Balance: {balance} Number: {accnum}");
@@ -54,6 +60,9 @@ namespace Task1
             var account1 = new BankAccount(1000, AccType.Debet);
             account1.PrintInfo();
             var account2 = new BankAccount(2000, AccType.Debet);
+            account2.PrintInfo();
+            account1.Perevod(account2, 200);
+            account1.PrintInfo();
             account2.PrintInfo();
         }
     }
