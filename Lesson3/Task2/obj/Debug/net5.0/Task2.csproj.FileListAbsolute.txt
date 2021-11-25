@@ -1,0 +1,16 @@
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\bin\Debug\net5.0\Task2.exe
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\bin\Debug\net5.0\Task2.deps.json
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\bin\Debug\net5.0\Task2.dll
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\bin\Debug\net5.0\ref\Task2.dll
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\bin\Debug\net5.0\Task2.pdb
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\obj\Debug\net5.0\Task2.csproj.AssemblyReference.cache
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\obj\Debug\net5.0\Task2.dll
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\obj\Debug\net5.0\ref\Task2.dll
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\obj\Debug\net5.0\Task2.pdb
+C:\Users\mayag\Documents\C#\OOP\Lesson3\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
