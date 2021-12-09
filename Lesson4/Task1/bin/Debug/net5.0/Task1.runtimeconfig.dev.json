@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mayag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mayag\\.nuget\\packages"
+    ]
+  }
+}
