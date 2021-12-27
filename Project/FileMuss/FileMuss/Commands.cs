@@ -43,34 +43,41 @@ namespace FileMuss
 
         public void md(Directories D, string name)
         {
-            Directory.CreateDirectory(D.curdir + '\\' + name);
+            if (name != "") 
+                Directory.CreateDirectory(D.curdir + '\\' + name);
         }
 
         public void mf(Directories D, string Name)
         {
-            var fs = File.Create(D.curdir + '\\' + Name);
-            fs.Close();
+            if (Name != "")
+            {
+                var fs = File.Create(D.curdir + '\\' + Name);
+                fs.Close();
+            }
         }
-        
+
         public void deldir(Directories D, string Name)
 
-        
+
         {
-            var Dir = D.curdir + '\\' + Name;
-            //Standart.Print(Dir, 0, Console.WindowHeight - 6);
-            //
-            if (Directory.Exists(Dir))
+            if (Name != "")
             {
-                string[] dirs = Directory.GetDirectories(Dir);
-                if (dirs.Length != 0)
+                var Dir = D.curdir + '\\' + Name;
+                //Standart.Print(Dir, 0, Console.WindowHeight - 6);
+                //
+                if (Directory.Exists(Dir))
                 {
-                    Standart.Print("--> You really want to delete the folder " + Name + "? (y/n) ", 0, Console.WindowHeight - 6, ConsoleColor.Yellow);
-                    var answ = Console.ReadLine();
-                    if (answ == "y" || answ == "Y") Directory.Delete(Dir, true);
-                }
-                else
-                {
-                    Directory.Delete(Dir);
+                    string[] dirs = Directory.GetDirectories(Dir);
+                    if (dirs.Length != 0)
+                    {
+                        Standart.Print("--> You really want to delete the folder " + Name + "? (y/n) ", 0, Console.WindowHeight - 6, ConsoleColor.Yellow);
+                        var answ = Console.ReadLine();
+                        if (answ == "y" || answ == "Y") Directory.Delete(Dir, true);
+                    }
+                    else
+                    {
+                        Directory.Delete(Dir);
+                    }
                 }
             }
         }
