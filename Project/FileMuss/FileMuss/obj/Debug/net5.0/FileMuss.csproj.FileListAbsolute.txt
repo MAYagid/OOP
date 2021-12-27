@@ -1,0 +1,16 @@
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\bin\Debug\net5.0\FileMuss.exe
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\bin\Debug\net5.0\FileMuss.deps.json
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\bin\Debug\net5.0\FileMuss.runtimeconfig.json
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\bin\Debug\net5.0\FileMuss.runtimeconfig.dev.json
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\bin\Debug\net5.0\FileMuss.dll
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\bin\Debug\net5.0\ref\FileMuss.dll
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\bin\Debug\net5.0\FileMuss.pdb
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\obj\Debug\net5.0\FileMuss.csproj.AssemblyReference.cache
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\obj\Debug\net5.0\FileMuss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\obj\Debug\net5.0\FileMuss.AssemblyInfoInputs.cache
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\obj\Debug\net5.0\FileMuss.AssemblyInfo.cs
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\obj\Debug\net5.0\FileMuss.csproj.CoreCompileInputs.cache
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\obj\Debug\net5.0\FileMuss.dll
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\obj\Debug\net5.0\ref\FileMuss.dll
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\obj\Debug\net5.0\FileMuss.pdb
+C:\Users\mayag\Documents\C#\OOP\Project\FileMuss\FileMuss\obj\Debug\net5.0\FileMuss.genruntimeconfig.cache
